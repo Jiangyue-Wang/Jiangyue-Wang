@@ -1,3 +1,7 @@
 ## Welcome to Jiangyue's homepage!
-I am Jiangyue Wang (王江月). I am a first-year PhD student major in Ecology and Evolutionary Biology in School of Life Sciences, Peking University. 
-Currently I am working on large carnivores in western Qilian Mountains, aiming to reveal their seasonal dietary partitioning, space use preferences, and interaction with human-related activities. In the past few months, I am focusing on habitat classification using remote sensing, snow leopard individual identification and population estimation using SCR framework, animal movement modeling, and pheasant habitat contraction and recovery during last ten years due to the presence and removal of free-ranging livestock. If you are interested in my research projects, I am willing to have a chat!
+I am Jiangyue Wang (王江月), a second-year PhD student specializing in Wildlife Ecology at the School of Life Sciences, Peking University. Currently, I am actively exploring opportunities to further my doctoral studies elsewhere.
+
+My research is centered around the study of large carnivores in the western Qilian Mountains, with a particular focus on understanding their seasonal dietary preferences, spatial utilization patterns, and interactions with human-related activities. Over the past several months, my work has encompassed diverse aspects of wildlife ecology, including habitat classification through remote sensing techniques, individual identification and population estimation of snow leopards using the Spatial Capture-Recapture (SCR) framework, animal movement modeling, and an investigation into the changes in pheasant habitat over the past decade in response to the presence and removal of free-ranging livestock.
+
+If you share an interest in any of these research or simply wish to connect and discuss, I am eager to engage in meaningful conversations. Please feel free to reach out!
+
